@@ -56,7 +56,7 @@ href="../assets/css/style.css">
 
             <div class="checkout-card">
 
-<form action="#" method="POST">
+<form action="buat_pesanan.php" method="POST">
 
 <div class="checkout-header">
 
