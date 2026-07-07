@@ -12,6 +12,8 @@
 
 <li><a href="checkout.php">💳 Checkout</a></li>
 
+<li><a href="riwayat_pesanan.php">📜 Riwayat Pesanan</a></li>
+
 </ul>
 
 </div>

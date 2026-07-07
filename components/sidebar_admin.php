@@ -12,6 +12,8 @@
 
 <li><a href="ranking.php">🏆 Ranking</a></li>
 
+<li><a href="laporan.php">📑 Laporan</a></li>
+
 <li><a href="../logout.php">🚪 Logout</a></li>
 
 </ul>
